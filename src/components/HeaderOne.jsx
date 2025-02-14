@@ -28,7 +28,7 @@ const HeaderOne = () => {
             </div>
 
             <div className="w-full md:w-1/2 mt-8 md:mt-0">
-                <img className="w-full h-full object-cover" src='./images/image-one.png' alt="Product illustration" />
+                <img className="w-full h-full object-cover" src='./images/imageone.png' alt="Product illustration" />
             </div>
         </div>
     )
